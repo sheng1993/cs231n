@@ -1,2 +1,13 @@
+#%%
 import numpy as np
-print(np.random.randn(10))
+from models.vgg import VGG
+
+#%%
+model = VGG()
+
+#%%
+model
+
+#%%
+print(1)
+print(2)
